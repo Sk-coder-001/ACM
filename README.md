@@ -1,4 +1,4 @@
-# 🚀 Trident ACM Student Chapter Website – Now Live! 🎉  
+# 🚀 Trident ACM Student Chapter Website 🎉  
 
 🛠️ **Made in Sep 2024** | 🎯 **Built with HTML, CSS, JS, SCSS**  
 
