@@ -7,10 +7,8 @@ I'm excited to introduce the **Trident ACM Student Chapter** website, designed t
 ## 🔹 Association for Computing Machinery  
 **Advancing Computing as a Science & Profession**  
 
-## 🔗 Live Website  
 🔗 [Visit Website](https://adityanarayandas.github.io/acm/)  
 
-## 💻 Explore the Code  
 💻 [GitHub Repository](https://github.com/sk-mallick/acm.git)  
 
 ## ✨ Features  
